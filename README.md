@@ -10,4 +10,7 @@ If you use this way, you will be free.
 4. Set the triggers, one for _setBase_, one for _detectClick_.
 5. ***setBase***: From spreadsheet, after changed.
 6. ***detectClick***: Time-driven, day, 00:00 ~ 01:00 AM.
-7. Run!	
+7. Run!
+
+##Add
+- 2016.09.10. Add the percentage of the clicks on the different social network platform, such as Facebook, Plurk, Twitter, and Google+.
