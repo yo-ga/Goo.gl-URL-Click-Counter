@@ -1,9 +1,9 @@
-#About
-##Idea
+# About
+## Idea
 When you need to know how many times the goo.gl URL was clicked in the one day and the three days after posted, you have to check the number from the web manually. But by that way, it's easy to forget.
 If you use this way, you will be free.
 
-##How to Use
+## How to Use
 1. Upload the goo.gl-counter.xlsx in your Google Drive.
 2. To create a container-bound script, select Tools > Script editor from within Google Sheet.
 3. Replace the code by BotCounter.js.
@@ -12,5 +12,5 @@ If you use this way, you will be free.
 6. ***detectClick***: Time-driven, day, 00:00 ~ 01:00 AM.
 7. Run!
 
-##Add
+## Add
 - 2016.09.10. Add the percentage of the clicks on the different social network platform, such as Facebook, Plurk, Twitter, and Google+.
